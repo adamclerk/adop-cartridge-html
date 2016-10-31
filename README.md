@@ -1,3 +1,5 @@
+# adop-cartridge-html
+cartridge to deploy static html website
 # Cartridge Skeleton
 The purpose of this repository is to define a base cartridge with empty job definitions and pipelines to allow developers to rapidly develop their cartridges.
 
